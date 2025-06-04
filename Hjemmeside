@@ -48,7 +48,7 @@
 
   <main>
     <p>
-      Dette er et minimalt site bygget som case til eksamen i versionsstyring.
+      En meget simpel hjemmeside til Eksamen i Design af it-baserede systemer
     </p>
 
     <button id="toggleTheme" aria-pressed="false">
