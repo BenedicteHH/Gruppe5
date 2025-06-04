@@ -2,7 +2,7 @@
 <html lang="da">
 <head>
   <meta charset="UTF-8" />
-  <title>Simple Feature-Branch Demo</title>
+  <title>Eksamen i M6</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
@@ -43,7 +43,7 @@
 </head>
 <body>
   <header>
-    <h1>Simple Feature-Branch Demo</h1>
+    <h1>Eksamen i M6</h1>
   </header>
 
   <main>
