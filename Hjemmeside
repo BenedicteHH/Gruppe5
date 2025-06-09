@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
-      --bg: #ffffff;
+      --bg: #ffc0cb;
       --fg: #1a1a1a;
       --accent: #0077ff;
     }
